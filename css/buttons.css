@@ -1,0 +1,36 @@
+.btn {
+  color: #fff;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 25px;
+  letter-spacing: 0.2px; 
+}
+
+.little_transporent {  
+  background: transparent;
+  height: 52px; 
+  padding: 13.5px 40px;
+  border: 1px solid #fff; 
+}
+
+.big_blue {
+  width: 178px;
+  height: 65px;
+  background: #4452FE;  
+  box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+}
+
+.big_transporent {
+  background: none;
+  width: 174px;
+  height: 65px;
+  border: 1px solid #fff; 
+  filter: drop-shadow(0px 4px 31px rgba(0, 0, 0, 0.15));
+}
+
+.little_blue {
+  padding: 13.5px 48.5px; 
+  background: #4452FE;
+  
+}
+
